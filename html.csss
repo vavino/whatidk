@@ -1,5 +1,15 @@
-/*selector {property: value;}
+/*
+selector {
 
-*/h1 { font-family: Helvetica;color: red;  font-size: large  font-weight: bold;}
+property: value;
+}
+
+*/
+h1 {
+font-family: Helvetica;
+color: red;  
+font-size: large  
+font-weight: bold;
+}
 
 hello
